@@ -20,7 +20,7 @@ hello_service.rb  hello_service_constants.rb  hello_service_types.rb
 ```
 
 ### クライアント実行
-finagle-thrift をに対応したサーバは利用可能な前提。
+finagle-thrift に対応したサーバは利用可能な前提。
 
 接続情報は `run.rb` を直接変更すること。
 
