@@ -2,7 +2,7 @@
 
 finagle-thrift を使ったRPCクライアントのRuby最小（当社比）実装。
 
-（QiitaのURL）の記事で触れているサンプルコード。
+[Rubyで作るfinagle-thriftクライント](https://qiita.com/laysakura/items/6993e442d513315e2da2)の記事で触れているサンプルコード。
 
 ## 実行方法
 
